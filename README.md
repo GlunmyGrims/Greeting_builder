@@ -31,3 +31,7 @@ It provides a simple, straightforward logic to greet anyone dynamically. With a 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Project idea from: Roadmap.sh
+
+https://roadmap.sh/projects/js-greeting-builder
